@@ -1,0 +1,9 @@
+[submodule "whitespacers"]
+	path = whitespacers
+	url = https://github.com/hostilefork/whitespacers/
+[submodule "ante"]
+	path = ante
+	url = https://github.com/internetblacksmith/ante
+[submodule "brainfint"]
+	path = brainfint
+	url = https://github.com/quocl/brainfint
